@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://ulheptru:g_ud_8w2E3k5u3CDcRqM3ShnBofpUFVu@stampy.db.elephantsql.com/ulheptru",
+            "name": "dealership"
+        }
+    ]
+}
